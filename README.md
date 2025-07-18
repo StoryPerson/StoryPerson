@@ -15,10 +15,9 @@
 </p>
 
 </p>
-## 🧰 Tech Stack
-
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=python,cpp,linux,git,github,mysql,numpy,scipy,pandas,matplotlib,plotly,tensorflow,scikit-learn,githubactions&perline=7" />
+<!-- 🌐 Top Languages -->
+<p align="center" style="margin-top: 20px;">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=hammadali08&layout=compact&theme=shadow_blue&hide_border=true" height="180" alt="Top Languages"/>
 </p>
 
 ---
