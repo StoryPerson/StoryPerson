@@ -6,7 +6,7 @@
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&pause=1000&color=00F7F7&center=true&vCenter=true&width=600&lines=Full-Stack+Developer;AI+%26+ML+Enthusiast;Open+Source+Contributor;Data+Ninja+%7C+Problem+Solver;Lifelong+Tech+Explorer+🤖" />
 </p>
-## 🧰 Tech Stack
+##  🧰 Tech Stack
 <p align="center">
   <img src="https://skillicons.dev/icons?i=python,cpp,linux,git,github,mysql,numpy,scipy,pandas,matplotlib,plotly,tensorflow,scikit-learn,githubactions&perline=7" />
 </p>
