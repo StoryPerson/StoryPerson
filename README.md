@@ -7,18 +7,6 @@
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&pause=1000&color=00F7F7&center=true&vCenter=true&width=600&lines=Full-Stack+Developer;AI+%26+ML+Enthusiast;Open+Source+Contributor;Data+Ninja+%7C+Problem+Solver;Lifelong+Tech+Explorer+🤖" />
 </p>
 
-## 🧠 About Me
-
-```bash
-> whoami
-I’m Hammad Ali – a passionate full-stack developer with a love for AI, data, and high-performance code.
-
-> mission
-Build smart solutions with clean, scalable code and AI-powered insight.
-
-> vibe
-Professional. Energetic. AI-Nerd. Never settling.
-
 🧰 Tech Stack
 <p align="center"> <img src="https://skillicons.dev/icons?i=python,cpp,linux,git,github,mysql,numpy,scipy,pandas,matplotlib,plotly,tensorflow,scikit-learn,githubactions&perline=7" /> </p>
 🧩 Featured Projects
