@@ -10,9 +10,8 @@
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=hammadali08&show_icons=true&theme=radical&hide_border=true" height="180" alt="GitHub Stats"/>
   <img src="https://streak-stats.demolab.com?user=hammadali08&theme=radical&hide_border=true" height="180" alt="GitHub Streak"/>
-  <br>
-  <img src="https://github-profile-trophy.vercel.app/?username=hammadali08&theme=matrix&no-frame=true&row=1&column=7" alt="GitHub Trophies" />
 </p>
+
 
 
 
