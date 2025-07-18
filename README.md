@@ -1,12 +1,4 @@
-<!-- 🌌 Cosmic Header -->
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0FC5FF,100:6200EA&height=200&section=header&text=Hi%20%F0%9F%91%8B%20I'm%20Hammad%20Ali%20🚀&fontSize=40&fontAlign=38&fontColor=ffffff" />
-</p>
-
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&color=08F7FE&center=true&vCenter=true&width=700&lines=Full-Stack+Developer+%7C+AI+%26+ML+Engineer+%7C+Tech+Enthusiast;Building+for+tomorrow,+today.;Powered+by+curiosity+%26+creativity.;Obsessed+with+code+%26+clean+architecture.;Breaking+things+to+learn+how+they+work+%F0%9F%A4%AA" />
-</p>
-
+v
 
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&color=08F7FE&center=true&vCenter=true&width=700&lines=Full-Stack+Developer+%7C+AI+%26+ML+Engineer+%7C+Tech+Enthusiast;Building+for+tomorrow%2C+today.;In+memory+of+my+Grandmother+%F0%9F%92%94" />
