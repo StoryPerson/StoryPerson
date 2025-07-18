@@ -15,10 +15,27 @@
 </p>
 
 </p>
-<!-- 🌐 Top Languages -->
-<p align="center" style="margin-top: 20px;">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=hammadali08&layout=compact&theme=shadow_blue&hide_border=true" height="180" alt="Top Languages"/>
+## 🛠️ Tech Stack
+
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=20&pause=1000&color=00E5FF&center=true&vCenter=true&width=600&lines=Languages+%26+Frameworks+I+Work+With..." />
 </p>
+
+### 🧠 Languages & Programming
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=python,cpp,git,github&perline=8" />
+</p>
+
+### 📊 Data Science & AI Libraries
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=numpy,scipy,pandas,matplotlib,plotly,scikit-learn,tensorflow&perline=8" />
+</p>
+
+### ⚙️ Tools & Platforms
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=linux,mysql,githubactions&perline=8" />
+</p>
+
 
 ---
 
