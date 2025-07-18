@@ -5,5 +5,9 @@
 </p>
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=python,numpy,scipy,cpp,linux,pandas,plotly,matplotlib,scikit-learn,tensorflow,git,github,githubactions,mysql&perline=7" />
+  <img src="https://skillicons.dev/icons?i=python,cpp,linux,git,github,mysql,githubactions&perline=7" />
+</p>
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=numpy,scipy,pandas,matplotlib,plotly,scikit-learn,tensorflow&perline=7" />
 </p>
