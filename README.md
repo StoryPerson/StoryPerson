@@ -7,11 +7,12 @@
   <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=22&pause=1000&center=true&vCenter=true&width=750&color=4EF5FF&lines=Data+Scientist+%7C+ML+Engineer+%7C+Contributor;Creating+clean+systems+with+real-world+impact.;Driven+by+curiosity%2C+powered+by+Python+%26+data.;Scaling+automation+with+intelligent+pipelines.;Let%E2%80%99s+build+future-proof+technology+%F0%9F%9A%80" />
 
 
-<!-- Optional: Top Languages -->
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=hammadali08&layout=compact&theme=radical&hide_border=true" />
-</p>
+## 📈 GitHub Stats
 
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=hammadali08&show_icons=true&theme=shadow_blue&hide_border=true" height="180" alt="GitHub Stats"/>
+  <img src="https://streak-stats.demolab.com?user=hammadali08&theme=shadow_blue&hide_border=true" height="180" alt="GitHub Streak"/>
+</p>
 
 </p>
 ## 🧰 Tech Stack
